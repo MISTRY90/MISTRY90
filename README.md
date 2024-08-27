@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 📫 Contact Me
 
-    Email: your.email@example.com
-    LinkedIn: Your LinkedIn Profile
-    Twitter: @yourtwitterhandle
+    Email: ommistry2904@gmail.com
+    LinkedIn: https://www.linkedin.com/in/om-mistry-24802a25b/
 
 🤝 Contributions
 
