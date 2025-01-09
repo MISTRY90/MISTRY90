@@ -46,8 +46,14 @@ Welcome to my GitHub! I'm a **Full Stack Developer** with a passion for building
 ---
 
 ## 📫 Contact Me
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> : ommistry2904@gmail.com
-- **LinkedIn**: [Om Mistry](https://www.linkedin.com/in/om-mistry-24802a25b/)
+<div>
+  <a href="mailto:02mistryom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/om-mistry-24802a25b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
