@@ -3,9 +3,10 @@
 <img src="https://github.com/MISTRY90/MISTRY90/blob/76da754a9659bf6c25e7bc5818841550d6572dd6/ezgif-6-44c7ccf1ff.gif" width="500" height="80">
 </div>
 </html>
+<br>
+Welcome to my GitHub! I'm a **Full Stack Developer** with a passion for building elegant and efficient solutions to real-world problems. Whether it's creating  backends or  frontend interfaces.🙂 <br>
 
 # 💫 About Me:
-🙂 Welcome to my GitHub! I'm a **Full Stack Developer** with a passion for building elegant and efficient solutions to real-world problems. Whether it's creating  backends or  frontend interfaces.<br><br>
 🔭 Currently Working On: A react -redux based  project.<br>    🌱 Currently Learning: Training to become a React Developer at a Company.<br>    💬 Ask Me About: Tech/Comp Sci/Software Engineering/AI/Ml<br>
 
 
