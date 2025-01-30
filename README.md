@@ -1,3 +1,9 @@
+<html>
+<div align="center">
+<img src="https://github.com/MISTRY90/MISTRY90/blob/76da754a9659bf6c25e7bc5818841550d6572dd6/ezgif-6-44c7ccf1ff.gif" width="500" height="80">
+</div>
+</html>
+
 # 💫 About Me:
 🚀 About Me<br><br>    🔭 Currently Working On: A react -redux based  project.<br>    🌱 Currently Learning: Training to become a React Developer at a Company.<br>    💬 Ask Me About: Tech/Comp Sci/Software Engineering/AI/Ml<br>
 
